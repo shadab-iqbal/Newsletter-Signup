@@ -4,4 +4,6 @@ A simple site where users can enter their email addresses to recieve our newslet
 
 *Developed using nodejs*
 
+Execute ***"node app.js"*** to start the project
+
 ![image](https://user-images.githubusercontent.com/68025292/202853085-3f7540d8-1d6f-491a-ac9d-e0b017dd8e4c.png)
