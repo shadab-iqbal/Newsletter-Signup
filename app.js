@@ -101,7 +101,3 @@ function apiRequest(req, res, action) {
 app.listen(process.env.PORT || 3000, function () {
     console.log("Server is listening on port 3000");
 });
-
-
-// 912094fcb4e2be6743603b8dc11c4956-us18 -> api key
-// c72bbb22a4 -> list id
